@@ -15,8 +15,8 @@
 
 
 - 💬 Ask me about **HTML, BOOTSTRAP, PHP, LINUX** 
-- 📫 How to reach me **ps886993@gmail.com** -
-- ⚡ Fun fact **I Love Exploring Technical Things**
+- 📫 How to reach me **ps886993@gmail.com** 
+- ⚡ **I Love Exploring Technical Things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
