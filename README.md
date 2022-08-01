@@ -10,14 +10,10 @@
       alt="sharmapuneet_"
   /></a>
 </p>
-<img
-  align="left"
-  alt="img"
-  width="100%"
-  height="300px"
-  src="/profile.png"
-/>
-<br>
+
+![profile](https://user-images.githubusercontent.com/83543735/182094951-3dd0de6b-cfe8-4d0d-a6e3-c0cbc2723e1d.png)
+
+
 - 💬 Ask me about **HTML, BOOTSTRAP, PHP, LINUX** 
 - 📫 How to reach me **ps886993@gmail.com** -
 - ⚡ Fun fact **I Love Exploring Technical Things**
