@@ -17,7 +17,7 @@
   height="300px"
   src="/profile.png"
 />
-
+<br>
 - 💬 Ask me about **HTML, BOOTSTRAP, PHP, LINUX** 
 - 📫 How to reach me **ps886993@gmail.com** -
 - ⚡ Fun fact **I Love Exploring Technical Things**
